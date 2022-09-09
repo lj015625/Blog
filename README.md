@@ -1,2 +1,2 @@
-# Blog
-Hugo blog
+# blog
+a blog
